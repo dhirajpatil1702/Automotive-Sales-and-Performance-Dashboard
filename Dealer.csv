@@ -1,0 +1,61 @@
+﻿Dealer_ID,Dealer_Name,City,State,Region,Dealer_Type
+D001,Bengaluru Motors 01,Bengaluru,Karnataka,South,Tier 2
+D002,Siliguri Motors 02,Siliguri,West Bengal,East,Metro
+D003,Ludhiana Motors 03,Ludhiana,Punjab,North,Urban
+D004,Jodhpur Motors 04,Jodhpur,Rajasthan,North,Tier 2
+D005,Siliguri Motors 05,Siliguri,West Bengal,East,Metro
+D006,New Delhi Motors 06,New Delhi,Delhi,North,Tier 2
+D007,Gurugram Motors 07,Gurugram,Haryana,North,Urban
+D008,Coimbatore Motors 08,Coimbatore,Tamil Nadu,South,Urban
+D009,Ahmedabad Motors 09,Ahmedabad,Gujarat,West,Metro
+D010,Cuttack Motors 10,Cuttack,Odisha,East,Urban
+D011,Gaya Motors 11,Gaya,Bihar,East,Metro
+D012,Nashik Motors 12,Nashik,Maharashtra,West,Tier 2
+D013,Indore Motors 13,Indore,Madhya Pradesh,Central,Tier 2
+D014,Noida Motors 14,Noida,Uttar Pradesh,North,Tier 2
+D015,Kanpur Motors 15,Kanpur,Uttar Pradesh,North,Tier 2
+D016,New Delhi Motors 16,New Delhi,Delhi,North,Metro
+D017,Jaipur Motors 17,Jaipur,Rajasthan,North,Tier 2
+D018,Bengaluru Motors 18,Bengaluru,Karnataka,South,Metro
+D019,Mysuru Motors 19,Mysuru,Karnataka,South,Metro
+D020,Cuttack Motors 20,Cuttack,Odisha,East,Urban
+D021,Kochi Motors 21,Kochi,Kerala,South,Urban
+D022,Amritsar Motors 22,Amritsar,Punjab,North,Tier 2
+D023,Bhubaneswar Motors 23,Bhubaneswar,Odisha,East,Metro
+D024,Madurai Motors 24,Madurai,Tamil Nadu,South,Tier 2
+D025,Lucknow Motors 25,Lucknow,Uttar Pradesh,North,Urban
+D026,Coimbatore Motors 26,Coimbatore,Tamil Nadu,South,Urban
+D027,Faridabad Motors 27,Faridabad,Haryana,North,Urban
+D028,New Delhi Motors 28,New Delhi,Delhi,North,Urban
+D029,Patna Motors 29,Patna,Bihar,East,Urban
+D030,Thiruvananthapuram Motors 30,Thiruvananthapuram,Kerala,South,Urban
+D031,Thiruvananthapuram Motors 31,Thiruvananthapuram,Kerala,South,Urban
+D032,Indore Motors 32,Indore,Madhya Pradesh,Central,Tier 2
+D033,Coimbatore Motors 33,Coimbatore,Tamil Nadu,South,Tier 2
+D034,Bhubaneswar Motors 34,Bhubaneswar,Odisha,East,Urban
+D035,Chennai Motors 35,Chennai,Tamil Nadu,South,Metro
+D036,Vadodara Motors 36,Vadodara,Gujarat,West,Metro
+D037,Coimbatore Motors 37,Coimbatore,Tamil Nadu,South,Metro
+D038,Cuttack Motors 38,Cuttack,Odisha,East,Metro
+D039,Hyderabad Motors 39,Hyderabad,Telangana,South,Tier 2
+D040,Patna Motors 40,Patna,Bihar,East,Metro
+D041,Bengaluru Motors 41,Bengaluru,Karnataka,South,Metro
+D042,Cuttack Motors 42,Cuttack,Odisha,East,Tier 2
+D043,Kolkata Motors 43,Kolkata,West Bengal,East,Metro
+D044,Madurai Motors 44,Madurai,Tamil Nadu,South,Tier 2
+D045,Nashik Motors 45,Nashik,Maharashtra,West,Metro
+D046,Kochi Motors 46,Kochi,Kerala,South,Urban
+D047,Warangal Motors 47,Warangal,Telangana,South,Tier 2
+D048,Warangal Motors 48,Warangal,Telangana,South,Urban
+D049,Aurangabad Motors 49,Aurangabad,Maharashtra,West,Tier 2
+D050,Cuttack Motors 50,Cuttack,Odisha,East,Urban
+D051,Kolkata Motors 51,Kolkata,West Bengal,East,Metro
+D052,Jaipur Motors 52,Jaipur,Rajasthan,North,Tier 2
+D053,Kanpur Motors 53,Kanpur,Uttar Pradesh,North,Metro
+D054,Amritsar Motors 54,Amritsar,Punjab,North,Tier 2
+D055,Indore Motors 55,Indore,Madhya Pradesh,Central,Tier 2
+D056,Kolkata Motors 56,Kolkata,West Bengal,East,Tier 2
+D057,Indore Motors 57,Indore,Madhya Pradesh,Central,Urban
+D058,Bhubaneswar Motors 58,Bhubaneswar,Odisha,East,Tier 2
+D059,Indore Motors 59,Indore,Madhya Pradesh,Central,Tier 2
+D060,Nagpur Motors 60,Nagpur,Maharashtra,West,Metro

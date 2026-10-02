@@ -1,0 +1,21 @@
+﻿Vehicle_ID,Brand,Model,Segment,Fuel,Transmission,List_Price,Unit_Cost
+V001,Bajaj,Pulsar 125,Commuter,Petrol,Manual,95000,72000
+V002,Bajaj,Pulsar 150,Sports,Petrol,Manual,120000,90000
+V003,Bajaj,Pulsar NS200,Sports,Petrol,Manual,158000,118000
+V004,Bajaj,Pulsar N250,Sports,Petrol,Manual,175000,130000
+V005,Bajaj,Dominar 250,Premium,Petrol,Manual,185000,138000
+V006,Bajaj,Dominar 400,Premium,Petrol,Manual,235000,176000
+V007,Bajaj,Avenger 160,Cruiser,Petrol,Manual,145000,108000
+V008,Bajaj,Avenger 220,Cruiser,Petrol,Manual,165000,123000
+V009,Bajaj,Platina 100,Commuter,Petrol,Manual,70000,53000
+V010,Bajaj,Platina 110,Commuter,Petrol,Manual,78000,59000
+V011,Bajaj,CT 110X,Commuter,Petrol,Manual,82000,62000
+V012,Bajaj,Freedom 125,Commuter,CNG,110000,83000,
+V013,Bajaj,Chetak,Electric,Electric,Automatic,145000,105000
+V014,Bajaj,Chetak Premium,Electric,Electric,Automatic,175000,128000
+V015,Bajaj,Discover 125,Commuter,Petrol,Manual,90000,68000
+V016,Bajaj,Pulsar RS200,Sports,Petrol,Manual,172000,128000
+V017,Bajaj,Pulsar NS160,Sports,Petrol,Manual,145000,108000
+V018,Bajaj,V15,Premium,Petrol,Manual,115000,87000
+V019,Bajaj,Urban Cruiser,Premium,Petrol,Automatic,195000,146000
+V020,Bajaj,E-Scooter,Electric,Electric,Automatic,135000,98000
