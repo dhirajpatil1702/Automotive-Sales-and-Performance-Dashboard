@@ -43,7 +43,7 @@ The dashboard helps business users:
 
 ## 🔄 Project Workflow
 
-```text
+
 Source Data
     ↓
 Excel / CSV
